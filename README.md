@@ -1,4 +1,4 @@
-Your project focuses on designing and implementing a comprehensive data preprocessing system with the objective of improving the quality and reliability of a given dataset for machine learning purposes. Here's an overview of the key components and steps involved in your project:
+This project focuses on designing and implementing a comprehensive data preprocessing system with the objective of improving the quality and reliability of a given dataset for machine learning purposes. Here's an overview of the key components and steps involved in your project:
 
 Data Exploration:
 
